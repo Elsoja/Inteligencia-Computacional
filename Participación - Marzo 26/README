@@ -1,1 +1,6 @@
+This notebook implements a Convolutional Neural Network (CNN) for recognizing American Sign Language (ASL) gestures. We will compare the performance of a Fully Connected Neural Network (FCNN) with that of a CNN on the ASL dataset.
+For more information on the ASL alphabet, you can refer to this site: https://www.asl.gs/
 
+https://drive.google.com/file/d/1ws9BttDNUomE-QNK-xslB9f5aJnM1CWu/view?usp=drive_link
+
+Descargar el dataser y implementarlo en una carpeta del main nombrada "data"
